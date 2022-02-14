@@ -1,9 +1,7 @@
 # Krishnan Chelakkarai Sivaraman  
 
 ## CS424 - Project-1 - Subway  
-
-
-### Shiny App: <https://csk01.shinyapps.io/subway/>
+### Link to Shiny App: <https://csk01.shinyapps.io/subway/>
 
 ### Youtube Video: 
 
