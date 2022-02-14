@@ -1,1 +1,1 @@
-# cs424-spring22
+# Website for cs424 project and contents
