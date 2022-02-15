@@ -9,13 +9,27 @@ The landing page is a dashboard to let the user compare the entries at for each 
 
 ![image](https://user-images.githubusercontent.com/90429287/153977671-aad2b0b7-a738-45b1-8039-e1e4817dce4e.png)
 
-The second set of bar plots compare the total entries of a station in a given year based on the type of filter. The user can select the Year from the dropdown menu and the choose to compare the data per, day, month or day of the week.
 
+The second set of bar plots compare the total entries of a station in a given year based on the type of filter. The user can select the Year from the dropdown menu and the charts update for the chosen year. Likewise the User can choose to compare the data either per day, month or day of the week.
 The plots below shows the comparison of daily entries at UIC-Halstead vs O'Hare.
+
 ![image](https://user-images.githubusercontent.com/90429287/153977724-c9a6670d-72e7-4e35-911c-2e35e60e4dac.png)
 
+
 Below is an example where the ridership data is shown monthly on the left and weekly on the right 
+
 ![image](https://user-images.githubusercontent.com/90429287/153978232-c27950a8-9f95-437a-bc55-8e9903141f95.png)
+
+Lastly the same data is presented in a tabular form and the User can select the number of entries being displayed
+
+![image](https://user-images.githubusercontent.com/90429287/153978517-68b58c13-27b4-45cd-8747-68fa6bf8ba9d.png)
+
+
+The user can choose the Interesting Dates option in the sidemenu and navigate to view the visualizations of 10 interesting trends observed in this dataset. The user can select the visualization to view from the date dropdown menu on the bottom of the screen
+
+![image](https://user-images.githubusercontent.com/90429287/153979109-00be925c-49e0-4eba-81f4-3f1633dac54d.png)
+
+
 
   
 ## Data
