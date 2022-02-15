@@ -9,9 +9,15 @@ The landing page is a dashboard to let the user compare the entries at for each 
 
 ![image](https://user-images.githubusercontent.com/90429287/153977671-aad2b0b7-a738-45b1-8039-e1e4817dce4e.png)
 
+The second set of bar plots compare the total entries of a station in a given year based on the type of filter. The user can select the Year from the dropdown menu and the choose to compare the data per, day, month or day of the week.
+
+The plots below shows the comparison of daily entries at UIC-Halstead vs O'Hare.
 ![image](https://user-images.githubusercontent.com/90429287/153977724-c9a6670d-72e7-4e35-911c-2e35e60e4dac.png)
 
+Below is an example where the ridership data is shown monthly on the left and weekly on the right 
+![image](https://user-images.githubusercontent.com/90429287/153978232-c27950a8-9f95-437a-bc55-8e9903141f95.png)
 
+  
 ## Data
 #### Data Source: <https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f>
 The data used for this app was downloaded from the Chicago Data Portal website. The original dataset contains 5 columns namely, station-id, station-name, date, day-type and rides spanning from 2001 to 2021. It has 1.09 Million entries.
