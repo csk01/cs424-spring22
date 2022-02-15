@@ -5,10 +5,11 @@
 
 This App was built using R and Shiny. It visaulizes the Chicago CTA/Subway Ridership Data from 2001 to 2021.  
 
-The landng page is a dashboard to let the user compare the entries at for each year. It initially shows the plot showing entries at UIC-Halstead on the left and O'Hare on the right. 
+The landing page is a dashboard to let the user compare the entries at for each year. The first plot compares the entries at UIC-Halstead on the left section and O'Hare on the right section of the page. The user can select the station from the dropdown list to compare the stations(O'Hare, UIC-Halsted and Addison)
 
-![image](https://user-images.githubusercontent.com/90429287/153976072-ccf5d4c7-3eb5-4173-8891-3122de6fbfe4.png)
+![image](https://user-images.githubusercontent.com/90429287/153977671-aad2b0b7-a738-45b1-8039-e1e4817dce4e.png)
 
+![image](https://user-images.githubusercontent.com/90429287/153977724-c9a6670d-72e7-4e35-911c-2e35e60e4dac.png)
 
 
 ## Data
