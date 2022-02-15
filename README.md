@@ -3,15 +3,15 @@
 
 ## Introduction
 #### Link to Shiny App: <https://csk01.shinyapps.io/subway/> 
-This App was built using R and Shiny. It visaulizes the Chicago CTA/Subway Ridership Data from 2001 to 2021. 
-
+This App was built using R and Shiny. It visaulizes the Chicago CTA/Subway Ridership Data from 2001 to 2021.  
 
 ## Data
 #### Data Source: <https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f>
-The data used for this app was downloaded from the Chicago Data Portal website. The original dataset contains 5 columns namely, station-id, station-name, date, day-type and rides spanning from 2001 to 2021. It has 1.09 Million entries. 
-Firstly the original data was loaded into a dataframe and then the date was converted to a R friendly format(yyyy-mm-dd) using lubridate library. Then the dataframe was split into 3 dataframes to store as 3 separate data files containing the date and rides columns for OHare Airport, UIC-Halstead and Addison-North Main Stations only. This was done to save space and focus only on the data which I wanted to visualize.
-To reproduc
+The data used for this app was downloaded from the Chicago Data Portal website. The original dataset contains 5 columns namely, station-id, station-name, date, day-type and rides spanning from 2001 to 2021. It has 1.09 Million entries.
 
+#### Data preprocessing
+Firstly the original data was loaded into a dataframe and then the date was converted to a R friendly format(yyyy-mm-dd) using lubridate library. Then the dataframe was split into 3 dataframes to store as 3 separate data files containing the date and rides columns for OHare Airport, UIC-Halstead and Addison-North Main Stations only. This was done to save space and focus only on the data which I wanted to visualize.  
+ 
 ## Source Code
 ### Github Repo: <https://github.com/csk01/cta_subway>
 Download the repository from Github as a zip file. Extract it into any folder. Open the R code on R studio. You can run it either locally or publish it on Shiny apps.
