@@ -26,11 +26,40 @@ Ensure that the below of libraries are up to date.
 7. dplyr
 
 ## Interesting Things
-
+The data showed a lot of interesting trends in CTA ridership over the years. Here are some of the ones which are presented in the application
 
 ### 1. Impact of Covid-19 
+The most obivious trend was the sharp decline in number of riders at UIC-Halstead stop which was right after WHO declares Covid-19 a pandemic in March 2020.
 ![image](https://user-images.githubusercontent.com/90429287/153971447-8a99ad46-bf23-4a35-a9bd-46d6ffa91260.png)
-We can see a sharp decline in number of riders at UIC-Halstead stop after WHO declares Covid-19 a pandemic in March 2020.
+
+### 2. Cubs Game 
+Despite dull times during the pandemic we can clearly see a two spikes in ridership at OHare due to the Cubs vs Cardinals Baseball game on Sep 4th and Sep 6th 2020
+![image](https://user-images.githubusercontent.com/90429287/153971668-10441a69-cc9d-4c2d-8b8e-0750bff409e9.png)
+
+### 3. 9/11 Aftermath Game 
+Another trend was the sudden drop in rider count at the OHare CTA right after the 9/11 World Trade Center Attacks in 2001
+![image](https://user-images.githubusercontent.com/90429287/153972326-7e949056-2d94-4ced-8444-b2674e95d60b.png)
+
+### 4. BLM Protest 
+Missing data for June can be attributed to sudden halting of services due to protests in the wake of death of George Floyd
+![image](https://user-images.githubusercontent.com/90429287/153972569-629c4d1d-a25e-497e-82ec-e8d792d54a77.png)
+
+### 2. 7-Oct-2008 
+This day was an eventful day. The sudden spike on in ridership could be attributed to a number of reasons 
+1. Obama arriving at OHare to cast his vote
+2. First match for the Cubs world series begins
+3. Kanye West performing at United center 
+![image](https://user-images.githubusercontent.com/90429287/153972819-9bb50318-ad82-4698-95e2-8a471ae3b029.png)
+
+### 2. 9/11 Aftermath Game 
+Another trend was the sudden drop in rider count at the OHare CTA right after the 9/11 World Trade Center Attacks in 2001
+![image](https://user-images.githubusercontent.com/90429287/153972326-7e949056-2d94-4ced-8444-b2674e95d60b.png)
+### 2. 9/11 Aftermath Game 
+Another trend was the sudden drop in rider count at the OHare CTA right after the 9/11 World Trade Center Attacks in 2001
+![image](https://user-images.githubusercontent.com/90429287/153972326-7e949056-2d94-4ced-8444-b2674e95d60b.png)
+### 2. 9/11 Aftermath Game 
+Another trend was the sudden drop in rider count at the OHare CTA right after the 9/11 World Trade Center Attacks in 2001
+![image](https://user-images.githubusercontent.com/90429287/153972326-7e949056-2d94-4ced-8444-b2674e95d60b.png)
 
 
 
