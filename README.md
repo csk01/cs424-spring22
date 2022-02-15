@@ -105,7 +105,7 @@ Chicago knows how to support its basesball team. We can see an unusual increase 
 ![image](https://user-images.githubusercontent.com/90429287/153973844-6e8e514d-88a5-469f-a16c-9b96895eec61.png)
 
 ### 10. Yet another Cubs game
-Spike in July 2103 due to Cubs game at Wrigley Field
+Spike seen in OHare ridership in July 2013 due to Cubs game at Wrigley Field. This tells us that Chicagoans do not mind travelling 10 miles to support the Cubs 
 
 ![image](https://user-images.githubusercontent.com/90429287/153974630-4dc60252-99f1-4dbb-8c90-fe1b69db99b7.png)
 
