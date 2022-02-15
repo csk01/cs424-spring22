@@ -78,7 +78,7 @@ Chicago knows how to support its basesball team. We can see an unusual increase 
 ![image](https://user-images.githubusercontent.com/90429287/153973844-6e8e514d-88a5-469f-a16c-9b96895eec61.png)
 
 ### 10. Yet another Cubs game
-Spike in July due to Cubs game at Wrigley Field
+Spike in July 2103 due to Cubs game at Wrigley Field
 
 ![image](https://user-images.githubusercontent.com/90429287/153974630-4dc60252-99f1-4dbb-8c90-fe1b69db99b7.png)
 
