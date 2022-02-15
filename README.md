@@ -2,6 +2,7 @@
 
 ## Introduction
 #### Link to Shiny App: <https://csk01.shinyapps.io/subway/> 
+#### Youtube Video <https://youtu.be/8CBXgb6cLjk>
 
 This App was built using R and Shiny. It visaulizes the Chicago CTA/Subway Ridership Data from 2001 to 2021.  
 
