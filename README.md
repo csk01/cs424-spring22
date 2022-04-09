@@ -1,4 +1,5 @@
-# Krishnan Chelakkarai Sivaraman |  CS424 - Project-1 - Subway  
+# Krishnan Chelakkarai Sivaraman |  CS424 - Student's Choice Presentation 
+# An Analysis of Beatles?  
 
 ## Introduction
 #### Link to Shiny App: <https://csk01.shinyapps.io/subway/> 
